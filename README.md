@@ -30,11 +30,11 @@ working in the C programming language. The specific list of projects contained f
 * [0x16. C - Simple Shell](https://github.com/Sinned254/simple_shell/tree/master)
 * [0x17. C - Doubly linked lists](./0x17-doubly_linked_lists)
 * [0x18. C - Dynamic libraries](./0x18-dynamic_libraries)
-* [0x19. C - Stacks, Queues - LIFO, FIFO](https://github.com/OtaraAlex/monty/tree/main)
+* [0x19. C - Stacks, Queues - LIFO, FIFO](https://github.com/OtaraAlex/monty/tree/master)
 * [0x1A. C - Hash tables](./0x1A-hash_tables)
 * [0x1B. C - Sorting algorithms & Big O](https://github.com/OtaraAlex/sorting_algorithms)
 * [0x1C. C - Makefiles](./0x1C-makefiles)
-* [0x1D. C - Binary trees](https://github.com/OtaraAlex/binary_trees/tree/main)
+* [0x1D. C - Binary trees](https://github.com/OtaraAlex/binary_trees/tree/master)
 * [0x1E. C - Search Algorithms](./0x1E-search_algorithms)
 
 ## Author✍️
